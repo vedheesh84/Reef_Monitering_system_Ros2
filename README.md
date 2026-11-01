@@ -388,3 +388,10 @@ P = (I - K × H) × P
 ## License
 
 MIT License. Use it. Teach with it. Break it. Fix it.
+
+---
+
+## Knowledge & Research Bridge (Obsidian 2nd-Brain Vault)
+
+- **Project MOC Hub:** [Project MOC - Lunareef](file:///e:/app%20data/obsidian/ved/05_MOCs/Project_MOCs/Project%20MOC%20-%20Lunareef.md)
+- **Connected Vault Sources:** `[[Source - Underwater Robotics and Marine Sensor Transduction]]`, `[[Source - Marine Ecosystems and Limnological Dynamics]]`, `[[SN - SONAR]]`
