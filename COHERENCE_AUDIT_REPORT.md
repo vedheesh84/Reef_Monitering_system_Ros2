@@ -6,7 +6,7 @@
 
 ## 1. Executive Summary & Audit Mandate
 
-The goal of this audit is to verify that the **`ros2_reef_drone_kit`** functions as a seamless, unified knowledge ecosystem. In accordance with the curriculum mandate:
+The goal of this audit is to verify that the **`ros2_reef_drone_kit`** functions as a seamless, unified Engineering Workspace. In accordance with the curriculum mandate:
 - **Zero Conceptual Breaks**: Every mathematical symbol, equation, sensor operating principle, and architectural pattern must be introduced and derived from first principles before code deployment.
 - **Physical Grounding**: All parameters (mass, buoyancy, drag coefficients, thruster angles, noise figures) are grounded in real-world marine physics (BlueROV2 architecture).
 - **Code-to-Theory 1:1 Coherence**: Node interfaces, ROS 2 topics, service names, frame transformations (REP-103), and parameter types match across URDF models, Gazebo C++ plugins, Python nodes, Arduino firmware, and pedagogical documentation.
